@@ -21,4 +21,4 @@ As can be seen in the test set videos, the detection (red = pothole, blue = crac
 
 ## Inference on test set video
 
-![test set video](http://deeplearning.ge.imati.cnr.it/genova-5G/video/opencv-competition-2021/VID_20210505_120526-test-set-walk-deeplabv3-mobilenetv2-no-data-aug-640x360.mp4)
+![test set video](https://github.com/4ndr3aR/pothole-segmentation-opencv-competition-2021/raw/main/videos/VID_20210505_120526-test-set-walk-deeplabv3-mobilenetv2-no-data-aug-640x360-short-clip.mp4)
