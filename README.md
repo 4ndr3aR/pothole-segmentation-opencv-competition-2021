@@ -12,7 +12,7 @@ As can be seen in the test set videos, the detection (red = pothole, blue = crac
 
 `./road-potholes-cracks-semantic-segmentation.py --videofile VID_20210505_120526-test-set-walk.mp4 --rotatevideo True --outputvideo VID_20210505_120526-test-set-walk-deeplabv3-mobilenetv2-no-data-aug-640x360.mp4`
 
-[screenshot-01](https://media.githubusercontent.com/media/4ndr3aR/pothole-segmentation-opencv-competition-2021/main/pics/live-screenshots/screenshot-01.png)
-[screenshot-02](https://media.githubusercontent.com/media/4ndr3aR/pothole-segmentation-opencv-competition-2021/main/pics/live-screenshots/screenshot-02.png)
-[screenshot-03](https://media.githubusercontent.com/media/4ndr3aR/pothole-segmentation-opencv-competition-2021/main/pics/live-screenshots/screenshot-03.png)
-[screenshot-04](https://media.githubusercontent.com/media/4ndr3aR/pothole-segmentation-opencv-competition-2021/main/pics/live-screenshots/screenshot-04.png)
+![screenshot-01](https://media.githubusercontent.com/media/4ndr3aR/pothole-segmentation-opencv-competition-2021/main/pics/live-screenshots/screenshot-01.png)
+![screenshot-02](https://media.githubusercontent.com/media/4ndr3aR/pothole-segmentation-opencv-competition-2021/main/pics/live-screenshots/screenshot-02.png)
+![screenshot-03](https://media.githubusercontent.com/media/4ndr3aR/pothole-segmentation-opencv-competition-2021/main/pics/live-screenshots/screenshot-03.png)
+![screenshot-04](https://media.githubusercontent.com/media/4ndr3aR/pothole-segmentation-opencv-competition-2021/main/pics/live-screenshots/screenshot-04.png)
